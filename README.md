@@ -1,6 +1,6 @@
 # copyparty Docker Compose on MacVLAN
 
-This repository contains a Docker Compose setup for running [Copyparty](https://github.com/9001/copyparty) as a LAN-native service using a macvlan network with a static IP.
+This repository contains a Docker Compose setup for running [copyparty](https://github.com/9001/copyparty) as a LAN-native service using a macvlan network with a static IP.
 
 ---
 
