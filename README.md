@@ -67,8 +67,6 @@ COPY_PARTY_TZ=Europe/London
 
 Edit `copyparty.conf` to your liking.
 
----
-
 ### 4. Start the service
 
 ```bash
